@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruwini Kularathne</h1>
-<h3 align="center">Front-End Developer & UI/UX Engineer 🚀 | Undergraduate at Sabaragamuwa University 🎓</h3>
+<h3 align="center"> Intern Software Engineer - Front-End 👩‍💻 | Undergraduate at Sabaragamuwa University 🎓</h3>
 
 <br>
 
@@ -9,13 +9,13 @@
 
 <br>
 
-- 🌱 I’m currently learning **React, Flutter, Next,js and Firebase.**
+- 🌱 I’m currently learning **React, Next.js, Flutter and Firebase.**
 
 - 👨‍💻 All of my projects are available at [https://ruwinikularathne.github.io/](https://ruwinikularathne.github.io/)
 
 - 📝 I regularly write articles on [https://parentinguides.com/](https://parentinguides.com/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **ruwinikularathne2000@gmail.com**
 
